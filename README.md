@@ -2,6 +2,8 @@
 Image Scan! for Linux
 =====================
 
+References <a href="http://support.epson.net/linux/en/iscan_c.html">Epson Scan</a>
+
 Copyright (C) 2015  SEIKO EPSON CORPORATION
 
 For the impatient
